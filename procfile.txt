@@ -1,1 +1,0 @@
-web: python /Verkefni-1/V1.py $port
